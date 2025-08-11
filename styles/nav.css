@@ -8,6 +8,7 @@
     "wdth" 100;
 }
 
+
 nav,ul,li {
     display: flex;
      justify-content: space-between;
@@ -46,4 +47,29 @@ nav ul {
     width: 150px;
     height: 64px;
 
+}
+.banner-content {
+    margin-left: 167px;
+}
+.am {
+    color: #474747;
+    font-size: 45px;
+    width: 177px;
+    height: 61px;
+}
+.amar-hardy {
+    color: #181818;
+    font-size: 85px;
+    width: 498px;
+    height: 116px;
+}
+.para-graph {
+    color: #474747;
+    font-size: 18px;
+    width: 576px;
+    height: 60px;
+}
+.banner-styles{
+    display: flex;
+    justify-content: space-between;
 }
